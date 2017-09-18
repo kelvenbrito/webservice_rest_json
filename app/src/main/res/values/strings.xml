@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">RESTful Web Service</string>
+    <string name="txt_valor1">Valor 1:</string>
+    <string name="txt_valor2">Valor 2:</string>
+    <string name="btn_somar">Somar</string>
+    <string name="txt_method">Método:</string>
+    <string name="opt_post">POST</string>
+    <string name="opt_get">GET</string>
+</resources>
